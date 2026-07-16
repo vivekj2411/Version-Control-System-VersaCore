@@ -189,8 +189,8 @@ We welcome contributions! Here's how:
 
 ## 🙋 Contact & Support
 
-- 🐙 **GitHub**: [vraj2409](https://github.com/vraj2409)
-- 📧 **Repository**: [Version-Control-System](https://github.com/vraj2409/Version-Control-System)
+- 🐙 **GitHub**: [vivekj2411](https://github.com/vivekj2411)
+- 📧 **Repository**: [Version-Control-System]([https://github.com/vraj2409/Version-Control-System](https://github.com/vivekj2411/Version-Control-System-VersaCore)
 
 ---
 
