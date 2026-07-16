@@ -186,3 +186,15 @@ We welcome contributions! Here's how:
 4. 📤 Push to branch (`git push origin feature/amazing-feature`)
 5. 📥 Open a Pull Request
 
+<<<<<<< HEAD
+=======
+
+## 🙋 Contact & Support
+
+- 🐙 **GitHub**: [vivekj2411](https://github.com/vivekj2411)
+- 📧 **Repository**: [Version-Control-System](https://github.com/vivekj2411/Version-Control-System-VersaCore)
+
+---
+
+**⭐ If you found this helpful, please give it a star!**
+>>>>>>> adc80e8a9d477b4a19f48041611c2d68c2398467
