@@ -186,12 +186,3 @@ We welcome contributions! Here's how:
 4. 📤 Push to branch (`git push origin feature/amazing-feature`)
 5. 📥 Open a Pull Request
 
-
-## 🙋 Contact & Support
-
-- 🐙 **GitHub**: [vraj2409](https://github.com/vraj2409)
-- 📧 **Repository**: [Version-Control-System](https://github.com/vraj2409/Version-Control-System)
-
----
-
-**⭐ If you found this helpful, please give it a star!**
