@@ -190,7 +190,7 @@ We welcome contributions! Here's how:
 ## 🙋 Contact & Support
 
 - 🐙 **GitHub**: [vivekj2411](https://github.com/vivekj2411)
-- 📧 **Repository**: [Version-Control-System]([https://github.com/vraj2409/Version-Control-System](https://github.com/vivekj2411/Version-Control-System-VersaCore)
+- 📧 **Repository**: [Version-Control-System](https://github.com/vivekj2411/Version-Control-System-VersaCore)
 
 ---
 
